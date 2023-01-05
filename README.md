@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mabrinasueller
 - 👀 I’m interested in broadening my knowledge about Web Development, especially Backend.
-- 🌱 I graduated from SPICED academy (Full Stack Web Developement) and now work as a Junior Software Developer.
+- 🌱 I graduated from SPICED academy (Full Stack Web Developement) and now work as a Software Developer.
 - 💞️ I’m looking to collaborate on projects to learn.
 
 
